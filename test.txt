@@ -1,0 +1,20 @@
+program first
+var
+num b,c;
+label k 
+{
+ read(b);
+ c=-0.5;
+ if(b>100 && c>10) ? { c=(3+(c*8)); } :
+{
+ while(c<0) do{
+ b=b+1;
+ c=c+1;
+ write(b,c);
+ };
+ goto k;
+};
+k:; 
+ write(b,c);
+ c=(2*b)/c;
+}
