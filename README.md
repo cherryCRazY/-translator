@@ -4,8 +4,8 @@ It's my translator which I wrote on the JS .I Believe , that repository  will be
 For start open index.html file in your browser.File test.txt is valide text for translator.
   All information about semantic of language or other features you can find in folder CourseWork.
 
-```
-Grammar 
+## Grammar 
+
 ```
 1.	< програма > program   < ім’я програми>  var <список оголошень >
 { <список операторів > }
@@ -51,3 +51,4 @@ Grammar
 33.	<знак>::=+|-
 34.	<буква>::=a|b|c|…|z
 35.	<цифра>::=0|1|…|9
+```
